@@ -48,8 +48,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anis-alam-214770232/
+- Email: anisalam39204@gmail.com
 
 ---
 
