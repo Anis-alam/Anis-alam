@@ -8,7 +8,7 @@
   <a href="YOUR_GITHUB_URL">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=Anis-alamE&style=for-the-badge&color=blueviolet">
 </p>
 
 ---
